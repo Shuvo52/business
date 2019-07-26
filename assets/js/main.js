@@ -1,8 +1,11 @@
 /* ===================================================================
     
-    Author          : 
-    Template Name   : Dostart - Startup Landing Page
-    Version         : 1.0
+    Main Style Stylesheet
+    Project:        HTML5 Template
+    Version:        1.0
+    Author:         Bgenerator
+    Last change:    26/07/2019
+    Primary use:    Creative, Coporate, Business, Portfolio, Personal
     
 * ================================================================= */
 (function($) {

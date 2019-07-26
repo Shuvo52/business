@@ -1,12 +1,11 @@
 /* ----------------------------------
 
-Template Name: Dostart - Startup Landing Page
-Author: 
-Description:
-Version: 1.0
-
-Main Font    : Poppins
-Main Color   : #1A6CEE
+    Main Style Stylesheet
+    Project:        HTML5 Template
+    Version:        1.0
+    Author:         Bgenerator
+    Last change:    26/07/2019
+    Primary use:    Creative, Coporate, Business, Portfolio, Personal
 
 -------------------------------------
 
@@ -3407,7 +3406,7 @@ footer .footer-bottom p a {
 }
 
 footer.color-yellow .footer-bottom p a {
-  color: #ff9800;
+  color: #1A6CEE;
 }
 
 .footer-bottom h4 {
@@ -3534,11 +3533,13 @@ footer.color-yellow .footer-bottom p a {
 }
 .com-inside:hover .img-sec img{
       transform: scale(1.1);
+      transition: 0.2s ease-in-out;
 }
 .com-inside .img-sec .hover-over .btn {
   padding: 0 20px;
   font-size: 12px;
   line-height: 34px;
+  background: #fff;
   height: 35px;
   margin: 0 5px;
   display: inline-block;
@@ -3673,7 +3674,7 @@ footer.demo .copyright {
   font-weight: 500;
 }
 #footer a:hover {
-  color: #f6b138;
+  color: #1A6CEE;
 }
 #footer p {
   line-height: 24px;
@@ -3722,7 +3723,7 @@ footer.demo .copyright {
   margin-top: 20px;
 }
 #footer .block .block-title:not(.no-underline):before {
-  background: #f6b138;
+  background: #1A6CEE;
   bottom: 0;
   content: "";
   height: 2px;
@@ -3803,7 +3804,7 @@ footer.demo .copyright {
 }
 .block-instagram-widget a:hover .overlay {
   opacity: 1;
-  background-color: #f6b138;
+  background-color: #1A6CEE;
 }
 .block-twitter-widget {
   font-size: 12px;
@@ -3991,7 +3992,7 @@ iframe {
   border-radius: 5px;
 }
 .profile-company-content .com-rate i {
-  color: #f2b01e;
+  color: #1A6CEE;
   font-size: 14px;
 }
 .profile-company-content .form-side input {
